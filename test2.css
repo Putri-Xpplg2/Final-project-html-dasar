@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: rgb(132, 127, 135);
+}
+.namap{
+    color: rgb(7, 3, 96);
+}
+.panggilan{
+    color: rgb(33, 33, 129);
+}
+.kelas{
+    color: rgb(47, 47, 114);
+}
+.ttl{
+    color: rgb(65, 72, 178);
+}
+.js{
+    color: darkblue;
+}
+.anak{
+    color: midnightblue;
+}
+.alamat{
+    color: mediumblue;
+}
+.as{
+    color: #261da6;
+}
+.jrsn{
+    color: darkblue;
+}
+.nisn{
+    color: navy;
+}
+        
